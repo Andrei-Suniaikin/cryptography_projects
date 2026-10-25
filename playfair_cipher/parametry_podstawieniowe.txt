@@ -1,0 +1,7 @@
+Rodzaj szyfru: Szyfr poligramowy (Playfair)
+
+Hasło (klucz): cybersec
+Reguły alfabetu: usunięcie spacji, znaków interpunkcyjnych i cyfr, zamiana 'j' na 'i'.
+
+Wniosek dotyczący poprawności:
+Szyfrogram wytworzony samodzielnie przez skrypt jest w 100% identyczny z szyfrogramem wygenerowanym na stronie internetowej. Oba teksty zostały pozbawione znaków interpunkcyjnych oraz spacji przed szyfrowaniem, co dało dokładnie taką samą, ciągłą sekwencję znaków.
